@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project as a beginner in programming. I will be using terminal to connect tto github, while writing code on VisualStudio Code. I will be using knowsledge acquired by Odin Project and I will start with HTML basics.
